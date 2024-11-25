@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Language-Python-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Ready-Green)
 
-### Using the data clock for hotspot analysis; identifying premises and drawing inferences from it
+### Using the data clock for hotspot analysis - identifying premises and drawing inferences from it
 
 What inferences and premises can be made from this chart in our analysis of the event timeline information?
 
