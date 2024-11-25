@@ -25,3 +25,7 @@ We can also start seeing more patterns, such as the amount of people involved in
 
 Easy peasy! Just copy the code into a Jupyter Notebook cell and run!
 ![howto](https://github.com/user-attachments/assets/a234c9cc-ed33-484f-8d07-b37662ad9b61)
+
+### Adjusting cluster identification
+<img width="268" alt="Screenshot 2024-11-25 at 09 28 01" src="https://github.com/user-attachments/assets/4c6ae718-4682-44b7-9706-995c8b3f5a34">
+
