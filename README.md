@@ -19,7 +19,7 @@
 - On the twenty-fifth of month, from 15 to 18, there are 4 1-hour robberies take palce.
 - On the twenty-seventh of month, from 17 to 21, there are 5 ~1-hour intervalled assaults take place, where two stand out taking place in quick succession.
   
-We can also start seeing more patterns, such as the amount of people involved in the burglaries, thefts, and assaults. Maybe there is one person who becomes absent? Maybe this person is performing worse off than the others? Many types of inferences can be made on these premises.
+We can also start seeing more patterns, such as the amount of people involved in the burglaries, thefts, and assaults. Maybe there is one person who becomes absent? Maybe this person is performing worse off than the others? Many inferences can be drawn based on these premises we have identified.
 
 ### Installation
 
