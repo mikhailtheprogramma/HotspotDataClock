@@ -4,6 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/License-GPL--3.0-yellow)
 ![Static Badge](https://img.shields.io/badge/Language-Python-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Ready-Green)
+
+
 What inferences and premises can be made from this chart in our analysis of the event timeline information?
 
 - On the first of month, from 13 to 16, a spree of 4 thefts take place in very quick succession.
