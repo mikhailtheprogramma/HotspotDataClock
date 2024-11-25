@@ -13,9 +13,6 @@ What inferences and premises can be made from this chart in our analysis of the 
   
 We can also start seeing more patterns, such as the amount of people involved in the burglaries, thefts, and assaults. Maybe there is one person who becomes absent? Maybe this person is performing worse off than the others? Many types of inferences can be made on these premises.
 
-### Inferences
-- 
-
 ![Static Badge](https://img.shields.io/badge/License-GPL--3.0-yellow)
 ![Static Badge](https://img.shields.io/badge/Language-Python-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Ready-Green)
