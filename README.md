@@ -7,7 +7,7 @@
 
 ### Using the data clock for hotspot analysis - identifying premises and drawing inferences from them
 
-What inferences and premises can be made from this chart in our analysis of the event timeline information?
+*What inferences and premises can be made from this chart in our analysis of the event timeline information?*
 
 - On the first of month, from 13 to 16, a spree of 4 thefts take place in very quick succession.
 - On the third of month, from 20 to 23, a spree of 4 vandalisms take place in very quick succession.
