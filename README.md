@@ -1,4 +1,9 @@
 ![image](https://github.com/user-attachments/assets/fb291357-6ebd-48ca-99ec-3f127efb9d91)
+> [!Important]
+> Under the GNU General Public License version 3 (GPL-3.0), the software is provided "as is," without any warranty or guarantee of any kind. The authors or copyright holders are not liable for any damages or issues that arise from using, modifying, or distributing the software. Use the software at your own risk.
+![Static Badge](https://img.shields.io/badge/License-GPL--3.0-yellow)
+![Static Badge](https://img.shields.io/badge/Language-Python-blue)
+![Static Badge](https://img.shields.io/badge/Status-Ready-Green)
 What inferences and premises can be made from this chart in our analysis of the event timeline information?
 
 - On the first of month, from 13 to 16, a spree of 4 thefts take place in very quick succession.
@@ -12,13 +17,6 @@ What inferences and premises can be made from this chart in our analysis of the 
 - On the twenty-seventh of month, from 17 to 21, there are 5 ~1-hour intervalled assaults take place, where two stand out taking place in quick succession.
   
 We can also start seeing more patterns, such as the amount of people involved in the burglaries, thefts, and assaults. Maybe there is one person who becomes absent? Maybe this person is performing worse off than the others? Many types of inferences can be made on these premises.
-
-![Static Badge](https://img.shields.io/badge/License-GPL--3.0-yellow)
-![Static Badge](https://img.shields.io/badge/Language-Python-blue)
-![Static Badge](https://img.shields.io/badge/Status-Ready-Green)
-
-> [!Important]
-> Under the GNU General Public License version 3 (GPL-3.0), the software is provided "as is," without any warranty or guarantee of any kind. The authors or copyright holders are not liable for any damages or issues that arise from using, modifying, or distributing the software. Use the software at your own risk.
 
 Easy peasy! Just copy the code into a Jupyter Notebook cell and run!
 ![howto](https://github.com/user-attachments/assets/a234c9cc-ed33-484f-8d07-b37662ad9b61)
