@@ -21,6 +21,9 @@
   
 We can also start seeing more patterns, such as the amount of people involved in the burglaries, thefts, and assaults. Maybe there is one person who becomes absent? Maybe this person is performing worse off than the others? Many inferences can be drawn based on these premises we have identified.
 
+### Timedate format
+You need to parse the timestamp information into one column following timedate format: YYYY-MM-DD HH:MM:SS
+
 ### Installation
 
 Easy peasy! Just copy the code into a Jupyter Notebook cell and run!
